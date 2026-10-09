@@ -1,0 +1,435 @@
+[
+  {
+    "id": 1791439448696,
+    "playerName": "praju",
+    "score": 200,
+    "riskLevel": "HIGH",
+    "answers": [
+      {
+        "scenarioId": 1,
+        "selectedAnswer": 0,
+        "points": 0
+      },
+      {
+        "scenarioId": 2,
+        "selectedAnswer": 1,
+        "points": 100
+      },
+      {
+        "scenarioId": 3,
+        "selectedAnswer": 0,
+        "points": 0
+      },
+      {
+        "scenarioId": 4,
+        "selectedAnswer": 2,
+        "points": 100
+      },
+      {
+        "scenarioId": 5,
+        "selectedAnswer": 1,
+        "points": 0
+      }
+    ],
+    "createdAt": "2026-10-08T06:04:08.696Z"
+  },
+  {
+    "id": 1791451563164,
+    "playerName": "iuufgjh",
+    "score": 1,
+    "riskLevel": "High",
+    "answers": [],
+    "createdAt": "2026-10-08T09:26:03.164Z"
+  },
+  {
+    "id": 1791489257120,
+    "playerName": "duig",
+    "score": 920,
+    "riskLevel": "LOW",
+    "answers": [
+      {
+        "scenarioId": 1,
+        "topic": "Cybersecurity",
+        "question": "Suspicious Email Link",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Forward the email to the IT security team and delete it without responding.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Forward the email to the IT security team and delete it without responding.",
+        "consequence": "Reporting the suspicious email helps protect the organization from phishing."
+      },
+      {
+        "scenarioId": 2,
+        "topic": "Data privacy",
+        "question": "Sharing Customer Data Internally",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Decline and suggest they request only the aggregated data they need from the data protection officer.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Decline and suggest they request only the aggregated data they need from the data protection officer.",
+        "consequence": "Limiting data to what is necessary protects privacy and complies with data handling standards."
+      },
+      {
+        "scenarioId": 3,
+        "topic": "Anti-bribery / anti-corruption",
+        "question": "Gift from Supplier",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Politely decline the ticket and thank the supplier for the offer.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Politely decline the ticket and thank the supplier for the offer.",
+        "consequence": "Declining avoids any appearance of impropriety and follows anti‑bribery standards."
+      },
+      {
+        "scenarioId": 4,
+        "topic": "Code of conduct",
+        "question": "Social Media Comment",
+        "selectedAnswer": 0,
+        "selectedAnswerText": "Report the post to your manager as it may breach the code of conduct.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 0,
+        "correctAnswerText": "Report the post to your manager as it may breach the code of conduct.",
+        "consequence": "Reporting helps ensure professional conduct and protects the company's reputation."
+      },
+      {
+        "scenarioId": 5,
+        "topic": "Workplace harassment",
+        "question": "Inappropriate Joke",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Speak up after the meeting to let the team know the comment was inappropriate.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Speak up after the meeting to let the team know the comment was inappropriate.",
+        "consequence": "Addressing the issue promotes a respectful workplace and discourages harassment."
+      },
+      {
+        "scenarioId": 6,
+        "topic": "Information security",
+        "question": "Unencrypted USB Drive",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Hand it to the security desk and note where you found it.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Hand it to the security desk and note where you found it.",
+        "consequence": "Turning it over to security follows proper information handling procedures."
+      },
+      {
+        "scenarioId": 7,
+        "topic": "Health & safety",
+        "question": "Blocked Fire Exit",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Remove the chair and report the blockage to facilities management.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Remove the chair and report the blockage to facilities management.",
+        "consequence": "Ensuring clear egress paths maintains a safe workplace."
+      },
+      {
+        "scenarioId": 8,
+        "topic": "Financial compliance",
+        "question": "Expense Report Discrepancy",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Remove the personal expense before submission and keep the change for yourself.",
+        "points": 20,
+        "weight": 20,
+        "isCorrect": false,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Correct the mistake, note the adjustment, and submit the revised report.",
+        "consequence": "Adjusting the report without disclosure is still non‑compliant."
+      },
+      {
+        "scenarioId": 9,
+        "topic": "Data privacy",
+        "question": "Printing Sensitive Documents",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Print the document, collect it immediately, and store it in a locked drawer.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Print the document, collect it immediately, and store it in a locked drawer.",
+        "consequence": "Promptly securing printed sensitive data protects privacy."
+      },
+      {
+        "scenarioId": 10,
+        "topic": "Workplace harassment",
+        "question": "Unwanted Direct Message",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Respond politely stating you prefer to keep interactions professional and report the message to HR.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Respond politely stating you prefer to keep interactions professional and report the message to HR.",
+        "consequence": "Setting boundaries and reporting helps maintain a respectful workplace."
+      }
+    ],
+    "createdAt": "2026-10-08T19:54:17.120Z"
+  },
+  {
+    "id": 1791492370363,
+    "playerName": "dgvbn",
+    "score": 940,
+    "riskLevel": "LOW",
+    "answers": [
+      {
+        "scenarioId": 1,
+        "topic": "Cybersecurity",
+        "question": "Suspicious Email Received",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Forward the email to IT and delete it from your inbox",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Forward the email to IT and delete it from your inbox",
+        "consequence": "Reporting to IT protects the network and follows security protocol."
+      },
+      {
+        "scenarioId": 2,
+        "topic": "Data privacy",
+        "question": "Client Data Request",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Decline and explain the company’s privacy policy",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Decline and explain the company’s privacy policy",
+        "consequence": "Refusing and citing policy protects client confidentiality."
+      },
+      {
+        "scenarioId": 3,
+        "topic": "Anti-bribery / anti-corruption",
+        "question": "Gift from Vendor",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Decline the tickets politely and report the offer to the compliance office",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Decline the tickets politely and report the offer to the compliance office",
+        "consequence": "Refusing and reporting maintains integrity and avoids conflicts of interest."
+      },
+      {
+        "scenarioId": 4,
+        "topic": "Code of conduct",
+        "question": "Inappropriate Joke",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Report the incident anonymously to the ethics hotline",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Report the incident anonymously to the ethics hotline",
+        "consequence": "Reporting helps address potential misconduct while protecting you."
+      },
+      {
+        "scenarioId": 5,
+        "topic": "Workplace harassment",
+        "question": "Unwanted Personal Questions",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Clearly tell the coworker the questions are unwelcome and ask them to stop",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Clearly tell the coworker the questions are unwelcome and ask them to stop",
+        "consequence": "Setting a firm boundary stops the behavior and asserts your rights."
+      },
+      {
+        "scenarioId": 6,
+        "topic": "Information security",
+        "question": "Printing Confidential Report",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Print the document, collect it immediately, and store it in a locked drawer",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Print the document, collect it immediately, and store it in a locked drawer",
+        "consequence": "Prompt collection and secure storage protect sensitive information."
+      },
+      {
+        "scenarioId": 7,
+        "topic": "Health & safety",
+        "question": "Spill in the Hallway",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Place a \"wet floor\" sign and clean the spill if you are trained to do so",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Place a \"wet floor\" sign and clean the spill if you are trained to do so",
+        "consequence": "Marking and cleaning the spill prevents accidents and follows safety protocol."
+      },
+      {
+        "scenarioId": 8,
+        "topic": "Financial compliance",
+        "question": "Expense Report Discrepancy",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Flag the issue with the finance team for clarification",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Flag the issue with the finance team for clarification",
+        "consequence": "Reporting the inconsistency ensures accurate and compliant reporting."
+      },
+      {
+        "scenarioId": 9,
+        "topic": "Data privacy",
+        "question": "Using Personal Device for Work Email",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Install the company‑approved mobile device management (MDM) solution and enable encryption",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 1,
+        "correctAnswerText": "Install the company‑approved mobile device management (MDM) solution and enable encryption",
+        "consequence": "Using approved security tools protects data on personal devices."
+      },
+      {
+        "scenarioId": 10,
+        "topic": "Cybersecurity",
+        "question": "Unattended Unlocked Computer",
+        "selectedAnswer": 3,
+        "selectedAnswerText": "Approach the colleague later and ask them to lock it",
+        "points": 40,
+        "weight": 40,
+        "isCorrect": false,
+        "correctAnswerIndex": 0,
+        "correctAnswerText": "Log out and lock the screen yourself",
+        "consequence": "Prompt action is needed; waiting may allow misuse."
+      }
+    ],
+    "createdAt": "2026-10-08T20:46:10.363Z"
+  },
+  {
+    "id": 1791514228440,
+    "playerName": "test",
+    "score": 720,
+    "riskLevel": "LOW",
+    "answers": [
+      {
+        "scenarioId": 1,
+        "topic": "Cybersecurity",
+        "question": "Suspicious Email Attachment",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Forward the email to the IT security team for review.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Forward the email to the IT security team for review.",
+        "consequence": "Reporting suspicious emails lets security handle the threat safely."
+      },
+      {
+        "scenarioId": 2,
+        "topic": "Data privacy",
+        "question": "Request for Customer Email",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Refuse and explain that the company’s privacy policy restricts sharing personal contact information.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Refuse and explain that the company’s privacy policy restricts sharing personal contact information.",
+        "consequence": "Protecting personal data and citing policy is the correct action."
+      },
+      {
+        "scenarioId": 3,
+        "topic": "Anti-bribery / anti-corruption",
+        "question": "Expensive Gift from Supplier",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Decline the tickets and report the offer to the compliance office.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Decline the tickets and report the offer to the compliance office.",
+        "consequence": "Refusing and reporting prevents any appearance of impropriety."
+      },
+      {
+        "scenarioId": 4,
+        "topic": "Code of conduct",
+        "question": "Extended Break Observation",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Discuss directly with the teammate, expressing concern and suggesting they follow the break policy.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Discuss directly with the teammate, expressing concern and suggesting they follow the break policy.",
+        "consequence": "A respectful, direct conversation encourages accountability."
+      },
+      {
+        "scenarioId": 5,
+        "topic": "Workplace harassment",
+        "question": "Offensive Accent Jokes",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Tell the coworker that the jokes are offensive and ask them to stop.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Tell the coworker that the jokes are offensive and ask them to stop.",
+        "consequence": "Directly addressing the issue promotes a respectful workplace."
+      },
+      {
+        "scenarioId": 6,
+        "topic": "Information security",
+        "question": "Unattended Laptop",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Lock the laptop before leaving the meeting room.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Lock the laptop before leaving the meeting room.",
+        "consequence": "Locking the screen secures data from unauthorized access."
+      },
+      {
+        "scenarioId": 7,
+        "topic": "Financial compliance",
+        "question": "Personal Expense Listed as Business",
+        "selectedAnswer": 2,
+        "selectedAnswerText": "Inform the finance department about the discrepancy.",
+        "points": 100,
+        "weight": 100,
+        "isCorrect": true,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Inform the finance department about the discrepancy.",
+        "consequence": "Reporting ensures proper review and correction."
+      },
+      {
+        "scenarioId": 8,
+        "topic": "Data privacy",
+        "question": "Using Personal Cloud for Client Files",
+        "selectedAnswer": 1,
+        "selectedAnswerText": "Ask the IT department for guidance before sharing the files.",
+        "points": 20,
+        "weight": 20,
+        "isCorrect": false,
+        "correctAnswerIndex": 2,
+        "correctAnswerText": "Move the documents to the company‑approved collaboration platform and share from there.",
+        "consequence": "Seeking guidance is good, but the best action is to use the approved tool directly."
+      }
+    ],
+    "createdAt": "2026-10-09T02:50:28.440Z"
+  }
+]
